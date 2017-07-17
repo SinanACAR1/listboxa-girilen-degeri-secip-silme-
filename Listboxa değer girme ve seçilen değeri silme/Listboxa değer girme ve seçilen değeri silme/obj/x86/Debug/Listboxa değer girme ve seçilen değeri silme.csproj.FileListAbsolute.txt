@@ -1,0 +1,7 @@
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Listboxa değer girme ve seçilen değeri silme\Listboxa değer girme ve seçilen değeri silme\bin\Debug\Listboxa değer girme ve seçilen değeri silme.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Listboxa değer girme ve seçilen değeri silme\Listboxa değer girme ve seçilen değeri silme\bin\Debug\Listboxa değer girme ve seçilen değeri silme.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Listboxa değer girme ve seçilen değeri silme\Listboxa değer girme ve seçilen değeri silme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Listboxa değer girme ve seçilen değeri silme\Listboxa değer girme ve seçilen değeri silme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Listboxa değer girme ve seçilen değeri silme\Listboxa değer girme ve seçilen değeri silme\obj\x86\Debug\Listboxa değer girme ve seçilen değeri silme.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Listboxa değer girme ve seçilen değeri silme\Listboxa değer girme ve seçilen değeri silme\obj\x86\Debug\Listboxa değer girme ve seçilen değeri silme.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Listboxa değer girme ve seçilen değeri silme\Listboxa değer girme ve seçilen değeri silme\obj\x86\Debug\Listboxa değer girme ve seçilen değeri silme.pdb
